@@ -1,3 +1,5 @@
+#written by Jonathan Huang and Erin Reynolds
+
 library(Rsubread)
 library(DESeq2)
 library(dplyr)
@@ -171,3 +173,4 @@ rm(list = ls())
 detach("package:datasets", unload = TRUE)
 
 # Clear mind :)
+
