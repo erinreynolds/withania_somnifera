@@ -1,3 +1,4 @@
+#written by Jonathan Huang and Erin Reynolds
 library(Rsubread)
 library(dplyr)
 library(ggplot2)
@@ -116,3 +117,4 @@ dev.off()
 rm(list = ls())
 
 # Clear mind :)
+
